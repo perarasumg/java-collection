@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Main {
+    // addfunction
     public static void main(String[] args) {
         List<Integer> li = new ArrayList<Integer>();
         li.add(1);
