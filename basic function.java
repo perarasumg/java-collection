@@ -38,5 +38,9 @@ class Main {
         for (int i : j) {
             System.out.println("---" + i);
         }
+        li.addAll(2,li2);
+        for(int i:li){
+            System.out.println(i);
+        }
     }
 }
